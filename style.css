@@ -305,10 +305,14 @@ header {
     flex-direction: column-reverse;
     align-items: center;
     margin: 10px;
-    left: 67px;
+   
+  
 
   
  
+}
+.section7_img {
+    width: 100%;
 }
 .section7_ul_li_h4 {
     align-items: center;
